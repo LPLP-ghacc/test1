@@ -7,6 +7,11 @@
 
         double c = a / b;
 
+        for(int i = 0; i < int.MaxValue; i++)
+        {
+            c += 1;
+        }
+
         Console.WriteLine(c);
     }
 }

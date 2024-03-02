@@ -1,0 +1,15 @@
+C:\Users\alpha\source\repos\piapiapidfpa\piapiapidfpa\bin\Debug\net7.0\piapiapidfpa.exe
+C:\Users\alpha\source\repos\piapiapidfpa\piapiapidfpa\bin\Debug\net7.0\piapiapidfpa.deps.json
+C:\Users\alpha\source\repos\piapiapidfpa\piapiapidfpa\bin\Debug\net7.0\piapiapidfpa.runtimeconfig.json
+C:\Users\alpha\source\repos\piapiapidfpa\piapiapidfpa\bin\Debug\net7.0\piapiapidfpa.dll
+C:\Users\alpha\source\repos\piapiapidfpa\piapiapidfpa\bin\Debug\net7.0\piapiapidfpa.pdb
+C:\Users\alpha\source\repos\piapiapidfpa\piapiapidfpa\obj\Debug\net7.0\piapiapidfpa.csproj.AssemblyReference.cache
+C:\Users\alpha\source\repos\piapiapidfpa\piapiapidfpa\obj\Debug\net7.0\piapiapidfpa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\source\repos\piapiapidfpa\piapiapidfpa\obj\Debug\net7.0\piapiapidfpa.AssemblyInfoInputs.cache
+C:\Users\alpha\source\repos\piapiapidfpa\piapiapidfpa\obj\Debug\net7.0\piapiapidfpa.AssemblyInfo.cs
+C:\Users\alpha\source\repos\piapiapidfpa\piapiapidfpa\obj\Debug\net7.0\piapiapidfpa.csproj.CoreCompileInputs.cache
+C:\Users\alpha\source\repos\piapiapidfpa\piapiapidfpa\obj\Debug\net7.0\piapiapidfpa.dll
+C:\Users\alpha\source\repos\piapiapidfpa\piapiapidfpa\obj\Debug\net7.0\refint\piapiapidfpa.dll
+C:\Users\alpha\source\repos\piapiapidfpa\piapiapidfpa\obj\Debug\net7.0\piapiapidfpa.pdb
+C:\Users\alpha\source\repos\piapiapidfpa\piapiapidfpa\obj\Debug\net7.0\piapiapidfpa.genruntimeconfig.cache
+C:\Users\alpha\source\repos\piapiapidfpa\piapiapidfpa\obj\Debug\net7.0\ref\piapiapidfpa.dll
